@@ -1,4 +1,4 @@
-# ko-en-translator-huggingface
+# ko-en-translator-huggingface-2
 - 2024-1 컴퓨터언어학연구1 과제
 - ko-en translator by huggingface dataset, model
 
