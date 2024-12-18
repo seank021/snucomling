@@ -8,3 +8,4 @@
     - ko-en-translator-huggingface
 - 2024-2 컴퓨터언어학연구1 과제
     - seq2seq, attention, transformers
+    - ko-en-translator-huggingface-2
